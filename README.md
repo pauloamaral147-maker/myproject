@@ -1,1 +1,0 @@
-* Arquivos temporarios para testes
