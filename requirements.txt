@@ -39,11 +39,11 @@ pyodbc==5.3.0
 pyperclip==1.9.0
 PyRect==0.2.0
 PyScreeze==1.0.1
-Python==3.9.21,
 python-dateutil==2.9.0.post0
 python-http-client==3.3.7
 pytweening==1.2.0
 pytz==2025.2
+pywin32==311
 pyzmq==27.0.0
 requests==2.32.5
 sendgrid==6.12.5
@@ -57,5 +57,6 @@ tzdata==2025.2
 urllib3==2.5.0
 wcwidth==0.2.13
 Werkzeug==3.1.3
+
 
 
